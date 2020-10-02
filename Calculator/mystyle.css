@@ -1,0 +1,36 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+input{
+	width: 75px;
+	height: 50px;
+	font-size: 30px;
+	border-radius: 5px;
+	margin: 7px;
+	background-color: #000;
+	color: #fff;
+	border-style: none;
+}
+
+#myform{
+		margin-left: 600px;
+		margin-top: 20px;
+}
+
+
+
+h1{
+	font-size: 50px;
+	background-color: #1e4c66;	
+	color: gold;
+	margin: 0px;
+	border: 2px solid black;
+	padding:5px;
+	
+}
+
+body{
+	background-image: url("cal.jpg");
+}
